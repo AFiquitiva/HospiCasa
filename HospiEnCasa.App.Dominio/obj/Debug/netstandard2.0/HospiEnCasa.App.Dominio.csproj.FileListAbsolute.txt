@@ -1,0 +1,9 @@
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/netstandard2.0/HospiEnCasa.App.Dominio.deps.json
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/netstandard2.0/HospiEnCasa.App.Dominio.dll
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/bin/Debug/netstandard2.0/HospiEnCasa.App.Dominio.pdb
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/netstandard2.0/HospiEnCasa.App.Dominio.csprojAssemblyReference.cache
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/netstandard2.0/HospiEnCasa.App.Dominio.AssemblyInfoInputs.cache
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/netstandard2.0/HospiEnCasa.App.Dominio.AssemblyInfo.cs
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/netstandard2.0/HospiEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/netstandard2.0/HospiEnCasa.App.Dominio.dll
+/Hospitalizacion/HospiEnCasa.App/HospiEnCasa.App.Dominio/obj/Debug/netstandard2.0/HospiEnCasa.App.Dominio.pdb
