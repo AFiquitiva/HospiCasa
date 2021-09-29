@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using HospiEnCasa.App.Dominio;
 
+
 namespace HospiEnCasa.App.Persistencia
 {
    public class AppContext : DbContext
@@ -13,7 +14,7 @@ namespace HospiEnCasa.App.Persistencia
            if (!optionsBuilder.IsConfigured)
            {
                optionsBuilder
-               .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = HospiEnCasaData");
+               .UseSqlServer("Data Source =.; Initial Catalog = HospiEnCasaData;uid=SA ;pwd=8520josE");
            }
        }
    }   
